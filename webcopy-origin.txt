@@ -1,0 +1,552 @@
+Uri: https://bali-rehab.ru/
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\index.htm
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/about
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\about.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/alcoholism
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\alcoholism.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/blog
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\blog.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/contacts
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\contacts.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/eating-disorder
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\eating-disorder.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/narcology
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\narcology.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/place
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\place.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/programs
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\programs.html
+Content Type: text/html
+
+Uri: https://bali-rehab.ru/team
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\team.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/97664706
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\watch\97664706
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-feed-1.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-feed-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-feed-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-feed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-paint-icons.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-paint-icons.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-text-clamp.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-text-clamp.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-fixed-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-zero-fixed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-gallery-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-zero-gallery-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/lib/icons/bullets/check5.svg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\lib\icons\bullets\check5.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3161-6263-4538-a131-356631313061/bda84-16761279683628.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3161-6263-4538-a131-356631313061\bda84-16761279683628.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3165-3566-4833-b165-333164346638/Rectangle_62.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3165-3566-4833-b165-333164346638\Rectangle_62.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3234-6134-4338-b464-313266663265/1638012483_42-sporti.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3234-6134-4338-b464-313266663265\1638012483_42-sporti.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3331-6331-4337-b564-336130303836/post1.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3331-6331-4337-b564-336130303836\post1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3461-6338-4038-b365-643632623264/CaviarDreams.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3461-6338-4038-b365-643632623264\CaviarDreams.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3632-6432-4034-a665-666633343761/ic_info_outline_black.svg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3632-6432-4034-a665-666633343761\ic_info_outline_black.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3733-6534-4364-b039-316563303866/photo.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3733-6534-4364-b039-316563303866\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3764-3564-4162-b939-623836613765/CaviarDreams_Bold.woff
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3764-3564-4162-b939-623836613765\CaviarDreams_Bold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6233-6436-4535-a334-393931653636/7.svg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6233-6436-4535-a334-393931653636\7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6435-3764-4232-b964-623566626465/Rectangle_59.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6435-3764-4232-b964-623566626465\Rectangle_59.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6439-6133-4165-a333-363066346634/_8.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6439-6133-4165-a333-363066346634\_8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6538-6364-4466-b966-616164323636/vecteezy_ai-generate.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6538-6364-4466-b966-616164323636\vecteezy_ai-generate.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6636-3231-4262-a363-653736643635/c126c2e903bcfeda0b34.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6636-3231-4262-a363-653736643635\c126c2e903bcfeda0b34.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6639-6263-4630-a464-393766626239/Rectangle_60.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6639-6263-4630-a464-393766626239\Rectangle_60.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599895.min.css?t=1727141959
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599895.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599895.min.js?t=1727141959
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599895.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599897.min.css?t=1727141962
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599897.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599897.min.js?t=1727141962
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599897.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599899.min.css?t=1727141969
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599899.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page50599899.min.js?t=1727141969
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page50599899.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page52114313.min.css?t=1727141971
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page52114313.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page52114313.min.js?t=1727141971
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page52114313.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page53633489.min.css?t=1727186976
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page53633489.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page53633489.min.js?t=1727186976
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page53633489.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page53953235.min.css?t=1727141951
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page53953235.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page53953235.min.js?t=1727141951
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page53953235.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54264361.min.css?t=1727141954
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54264361.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54264361.min.js?t=1727141954
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54264361.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54959879.min.css?t=1727185223
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54959879.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54959879.min.js?t=1727185223
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54959879.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54962477.min.css?t=1727185240
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54962477.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page54962477.min.js?t=1727185240
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page54962477.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page55387627.min.css?t=1727186357
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page55387627.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8338823/tilda-blocks-page55387627.min.js?t=1727186357
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\ws\project8338823\tilda-blocks-page55387627.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.com/tild3064-3362-4234-b831-653230366339/-/resizeb/20x/Mask_group-2.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3064-3362-4234-b831-653230366339\-\resizeb\20x\Mask_group-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3132-3161-4436-b031-663339613335/-/resizeb/20x/photo.jpeg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3132-3161-4436-b031-663339613335\-\resizeb\20x\photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3133-3862-4162-b432-663339323038/-/resizeb/20x/Mask_group.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3133-3862-4162-b432-663339323038\-\resizeb\20x\Mask_group.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3139-3263-4665-a135-616538306436/-/resizeb/20x/Mask_group-2.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3139-3263-4665-a135-616538306436\-\resizeb\20x\Mask_group-2.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3163-3931-4131-b263-626137383334/-/resizeb/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3163-3931-4131-b263-626137383334\-\resizeb\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3232-3762-4165-b332-343832333936/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3232-3762-4165-b332-343832333936\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3238-3164-4038-b338-333034393961/-/resizeb/20x/Mask_group-6.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3238-3164-4038-b338-333034393961\-\resizeb\20x\Mask_group-6.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3366-3832-4233-a430-313233333239/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3366-3832-4233-a430-313233333239\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3431-3062-4231-b035-343366656634/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3431-3062-4231-b035-343366656634\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3431-3539-4433-b733-393236663437/-/resizeb/20x/Mask_group.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3431-3539-4433-b733-393236663437\-\resizeb\20x\Mask_group.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3462-3964-4463-b538-616366313935/-/resizeb/20x/_8.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3462-3964-4463-b538-616366313935\-\resizeb\20x\_8.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3465-3635-4435-a339-383433653430/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3465-3635-4435-a339-383433653430\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3532-3761-4365-b239-646332656634/-/resizeb/20x/Mask_group-4.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3532-3761-4365-b239-646332656634\-\resizeb\20x\Mask_group-4.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3732-3331-4465-a662-396636626230/-/resizeb/20x/Mask_group-3.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3732-3331-4465-a662-396636626230\-\resizeb\20x\Mask_group-3.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3732-3761-4635-a265-306538653562/-/resizeb/20x/photo.jpeg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3732-3761-4635-a265-306538653562\-\resizeb\20x\photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3735-6534-4365-b738-336537326562/-/resizeb/20x/Mask_group-1.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3735-6534-4365-b738-336537326562\-\resizeb\20x\Mask_group-1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3761-6563-4165-a636-326436646635/-/resizeb/20x/Mask_group-1.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3761-6563-4165-a636-326436646635\-\resizeb\20x\Mask_group-1.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3764-3530-4563-b866-353865333833/-/resizeb/20x/iStock-492571614-204.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3764-3530-4563-b866-353865333833\-\resizeb\20x\iStock-492571614-204.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3834-3139-4564-a462-326336656365/-/resizeb/20x/photo.jpeg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3834-3139-4564-a462-326336656365\-\resizeb\20x\photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3964-3534-4337-a637-653062663431/-/resizeb/20x/_1.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild3964-3534-4337-a637-653062663431\-\resizeb\20x\_1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6263-3161-4761-b466-383463356462/-/resizeb/20x/Mask_group.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6263-3161-4761-b466-383463356462\-\resizeb\20x\Mask_group.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6363-6337-4166-a130-396432613836/-/resizeb/20x/Ustawienia-systemowe.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6363-6337-4166-a130-396432613836\-\resizeb\20x\Ustawienia-systemowe.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6466-6335-4866-a235-656637323366/-/resizeb/20x/photo.jpeg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6466-6335-4866-a235-656637323366\-\resizeb\20x\photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6531-6265-4437-b035-323532613135/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6531-6265-4437-b035-323532613135\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6538-6261-4462-b331-393038363761/-/resizeb/20x/Prison-wall.jpg
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6538-6261-4462-b331-393038363761\-\resizeb\20x\Prison-wall.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6564-3366-4761-a633-643130306464/-/resizeb/20x/Mask_group-7.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6564-3366-4761-a633-643130306464\-\resizeb\20x\Mask_group-7.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild6664-3336-4963-a330-663962386539/-/empty/Mask_group-0.png
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tild6664-3336-4963-a330-663962386539\-\empty\Mask_group-0.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=915044637354173&ev=PageView&agent=pltilda&noscript=1
+File Name: C:\Downloaded Web Sites\bali-rehab.ru\tr
+Content Type: text/plain
+
